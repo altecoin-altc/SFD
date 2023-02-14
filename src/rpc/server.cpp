@@ -377,6 +377,7 @@ static const CRPCCommand vRPCCommands[] =
         {"safedeal", "getmasternodescores", &getmasternodescores, true },
         {"safedeal", "mnsync", &mnsync, true },
         {"safedeal", "spork", &spork, true },
+        {"safedeal", "getcollateral", &getcollateral, true},
 
 #ifdef ENABLE_WALLET
         /* Wallet */
