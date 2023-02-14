@@ -153,7 +153,6 @@ cmake-build-debug
 moc_*
 *.tmp
 ui_*
-build*
 pivxd.*
 safedeald.*
 pivxd-new-gui.*
